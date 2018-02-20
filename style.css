@@ -56,16 +56,22 @@ body {
 .article {
 
 background-color: #777;
+padding:6px;
 
 }
 
 .h1h2 {
-	
+	vertical-align: middle;
+    padding: 2px;
+    margin: 2px;
+    background-color: #ebebeb
 
 
 }
 
 .ptext {
-
+    padding: 2px;
+    margin: 2px;
+    background-color: #ebebeb
 
 }
